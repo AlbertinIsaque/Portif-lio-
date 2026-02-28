@@ -1,16 +1,43 @@
-# React + Vite
+# Isaque Albertini — Portfólio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e informações de contato como desenvolvedor com foco em Back-end no ecossistema .NET.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Vite
+- JavaScript
+- CSS
 
-## React Compiler
+## 📂 Estrutura do Projeto
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O portfólio está organizado nas seguintes seções:
 
-## Expanding the ESLint configuration
+- Hero (apresentação)
+- Sobre
+- Skills
+- Projetos
+- Contato
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Os projetos exibidos incluem aplicações desenvolvidas com:
+
+- ASP.NET Core MVC
+- APIs REST
+- Entity Framework
+- Integração com APIs externas
+- Banco de dados relacional
+
+## 🛠 Como Executar Localmente
+
+```bash
+# Clonar o repositório
+git clone https://github.com/SEU_USUARIO/portfolio.git
+
+# Entrar na pasta
+cd portfolio
+
+# Instalar dependências
+npm install
+
+# Rodar o projeto em ambiente de desenvolvimento
+npm run dev
