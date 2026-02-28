@@ -2,14 +2,14 @@
 
 Portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e informações de contato como desenvolvedor com foco em Back-end no ecossistema .NET.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - React
 - Vite
 - JavaScript
 - CSS
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 O portfólio está organizado nas seguintes seções:
 
@@ -27,7 +27,7 @@ Os projetos exibidos incluem aplicações desenvolvidas com:
 - Integração com APIs externas
 - Banco de dados relacional
 
-## 🛠 Como Executar Localmente
+## Como Executar Localmente
 
 ```bash
 # Clonar o repositório
